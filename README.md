@@ -216,8 +216,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **IBM Project Team**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Project Link: [https://github.com/yourusername/student-travel-planner](https://github.com/yourusername/student-travel-planner)
+- GitHub: [@yourusername](https://github.com/koushik0356)
+- Project Link: [https://github.com/yourusername/student-travel-planner](https://github.com/koushik0356/student-travel-planner)
 
 ---
 
