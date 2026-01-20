@@ -1,12 +1,61 @@
+<div align="center">
+
 # ✈️ Student AI Travel Planner
 
-> Smart, Budget-Friendly Itineraries Powered by AI
+### *Your Smart Companion for Budget-Friendly Adventures*
 
-An intelligent travel planning application designed specifically for students who want to explore the world on a budget. Using Google's Gemini AI, this app generates personalized travel itineraries complete with interactive maps, cost estimates, and day-by-day activity plans.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini AI"/>
+  <img src="https://img.shields.io/badge/License-MIT-success?style=for-the-badge" alt="License"/>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.0+-red.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+<p align="center">
+  <a href="#-features">Features</a> •
+  <a href="#-demo">Demo</a> •
+  <a href="#-quick-start">Quick Start</a> •
+  <a href="#-documentation">Documentation</a> •
+  <a href="#-contributing">Contributing</a>
+</p>
+
+---
+
+**An AI-powered travel planning platform that generates personalized, budget-conscious itineraries for students. Experience intelligent trip planning with interactive maps, cost optimization, and day-by-day schedules—all powered by Google's Gemini AI.**
+
+</div>
+
+<br/>
+
+## 📸 Demo
+
+<div align="center">
+
+### Application Interface
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  ✈️ Student AI Travel Planner                                   │
+│  Smart, Budget-Friendly Itineraries in Seconds                  │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│  [Sidebar]              [Main Content Area]                     │
+│  ┌──────────┐          ┌─────────────────────────────────┐     │
+│  │ 📍 Goa   │          │  🗺️ Interactive Map View        │     │
+│  │ 💰 5000  │          │  • Day 1: Beach Hopping         │     │
+│  │ 📅 3 Days│          │  • Day 2: Culture & History     │     │
+│  │ ❤️ Food  │          │  • Day 3: Adventure Activities  │     │
+│  │          │          └─────────────────────────────────┘     │
+│  │ [Generate]│         ┌─────────────────────────────────┐     │
+│  └──────────┘          │  📅 Detailed Daily Itinerary   │     │
+│                        │  ⏱️ Timed activities with costs │     │
+│                        └─────────────────────────────────┘     │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+*Replace with actual screenshots when available*
+
+</div>
 
 ---
 
@@ -48,7 +97,7 @@ Before running this application, ensure you have:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/student-travel-planner.git
+git clone https://github.com/koushik0356/student-travel-planner.git
 cd student-travel-planner
 ```
 
@@ -216,7 +265,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **IBM Project Team**
 
-- GitHub: [@yourusername](https://github.com/koushik0356)
+- GitHub: [@koushik0356](https://github.com/koushik0356)
 - Project Link: [https://github.com/yourusername/student-travel-planner](https://github.com/koushik0356/student-travel-planner)
 
 ---
@@ -234,7 +283,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For issues, questions, or suggestions:
 - Open an issue on GitHub
-- Contact: your.email@example.com
+- Contact: koushik0356@gmail.com
 
 ---
 
