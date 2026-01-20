@@ -12,7 +12,7 @@ try:
     GOOGLE_API_KEY = st.secrets["GOOGLE_API_KEY"]
 except:
     # Fallback for testing ONLY (Do not commit this to GitHub!)
-    GOOGLE_API_KEY = "AIzaSyDRqxC81_9vwODgEzYGRxQc2LSngnCunpg"
+    GOOGLE_API_KEY = "your-google-api-key-here"
 
 genai.configure(api_key=GOOGLE_API_KEY)
 
