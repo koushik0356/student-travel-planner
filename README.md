@@ -4,7 +4,7 @@ An intelligent, budget-friendly travel planning application built with Streamlit
 
 ## 🌟 Features
 
-- **AI-Powered Itinerary Generation**: Uses Google's Gemini 2.0 Flash model to create personalized travel plans
+- **AI-Powered Itinerary Generation**: Uses Google's Gemini 2.0 Flash Experimental model to create personalized travel plans
 - **Budget-Conscious Planning**: Focuses on free or low-cost activities suitable for students
 - **Interactive Map Visualization**: Displays your entire trip route with color-coded daily plans using Folium
 - **Customizable Preferences**: Choose from various interests like Adventure, History, Food, Nightlife, Nature, Relaxation, and Art
@@ -79,7 +79,7 @@ The application will open in your default web browser at `http://localhost:8501`
 ## 🛠️ Technology Stack
 
 - **Frontend**: [Streamlit](https://streamlit.io/) - Interactive web application framework
-- **AI Model**: [Google Gemini 2.0 Flash](https://ai.google.dev/) - Advanced generative AI
+- **AI Model**: [Google Gemini 2.0 Flash Experimental](https://ai.google.dev/) - Advanced generative AI
 - **Mapping**: [Folium](https://python-visualization.github.io/folium/) - Interactive maps
 - **Languages**: Python 3.x
 
